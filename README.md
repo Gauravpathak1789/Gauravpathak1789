@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravpathak1789" alt="gauravpathak1789" /></a> </p>
 
-- 🔭 I’m currently working on **PCOS DIAGNOSIS**
+- 🔭 I’m currently working on **Machine learning based Web Applications**
 
 - 🌱 I’m currently learning **Machine learning and data science**
 
